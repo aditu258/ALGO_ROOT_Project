@@ -124,6 +124,6 @@ curl -X POST "http://localhost:8000/execute" \
 ---
 
 ## Screenshot
-![Output](screenshot/Screenshot 2025-03-26 122613.png)  
+![Output](https://github.com/aditu258/ALGO_ROOT_Project/blob/7c004caf29ed8de256a810d094e9fb6594cc1f17/screenshot/Screenshot%202025-03-26%20122613.png)  
 
 

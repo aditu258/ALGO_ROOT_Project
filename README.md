@@ -124,6 +124,6 @@ curl -X POST "http://localhost:8000/execute" \
 ---
 
 ## Screenshot
-![Output](screenshot\Screenshot 2025-03-26 122613.png)  
+![Output](screenshot/Screenshot 2025-03-26 122613.png)  
 
 
